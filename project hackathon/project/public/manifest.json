@@ -1,0 +1,40 @@
+{
+  "name": "VidyAI++",
+  "short_name": "VidyAI++",
+  "description": "AI-powered education platform for underprivileged students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7209b7",
+  "theme_color": "#7209b7",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "url": "/student-dashboard",
+      "description": "View your learning dashboard"
+    },
+    {
+      "name": "AI Mentor",
+      "url": "/ai-mentor",
+      "description": "Chat with your AI mentor"
+    }
+  ],
+  "categories": ["education", "learning"],
+  "lang": "en",
+  "dir": "ltr"
+}

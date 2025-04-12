@@ -1,0 +1,12 @@
+[
+  {
+    "id": "student1",
+    "username": "student1",
+    "password": "student123",
+    "name": "Ravi Kumar",
+    "role": "student",
+    "region": "Andhra Pradesh",
+    "class_level": 6,
+    "preferred_language": "telugu"
+  }
+]
